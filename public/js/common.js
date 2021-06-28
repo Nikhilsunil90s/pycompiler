@@ -141,7 +141,7 @@ function builtinRead(x) {
 }
 
 function inpf(text) {
-    console.log(text)
+    console.log("Hi",text)
     return text
 }
 
